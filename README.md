@@ -5,7 +5,6 @@ Find business leads, collect published contact details, manage conversations, an
 ![TrityReach lead discovery dashboard](docs/screenshots/discovery.png)
 
 [Screenshots](#screenshots) · [Quick start](#quick-start) · [Configuration](#configuration) · [Command-line scraper](#command-line-scraper) · [Integrations](#integrations) · [Development](#development)
-
 ## Features
 
 - **Three discovery sources:** Store Finder for retail prospects, Google Maps for any business type, and free web search.
